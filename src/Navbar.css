@@ -1,0 +1,15 @@
+.nav{
+    position:fixed;
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    z-index: 1;
+    padding:20px;
+    
+}
+.nav__logo{
+    position:fixed;
+    left:20px;
+    width:80px;
+    object-fit: contain;
+}
